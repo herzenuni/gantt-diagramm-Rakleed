@@ -10,3 +10,5 @@
 3. Teamweek (https://teamweek.com).
 
 Для создания можно использовать и другой сервис, если в нём есть функция экспорта в изображение.
+
+![Gantt Diagramm](/gantt-diagram.png)
